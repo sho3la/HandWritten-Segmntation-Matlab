@@ -1,0 +1,9 @@
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\bin\Debug\Matlab.exe.config
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\bin\Debug\Matlab.exe
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\bin\Debug\Matlab.pdb
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\bin\Debug\GetFile.dll
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\obj\Debug\Matlab.csprojResolveAssemblyReference.cache
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\obj\Debug\Matlab.Properties.Resources.resources
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\obj\Debug\Matlab.csproj.GenerateResource.Cache
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\obj\Debug\Matlab.exe
+C:\Users\Sho3lan\Desktop\Matlab\Matlab\obj\Debug\Matlab.pdb
